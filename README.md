@@ -53,7 +53,7 @@ The script:
 
 ## 📝 Example Output (from labels.csv)
 
-![alt text](image.png)
+![alt text](screenshots/image.png)
 
 ## 🔐 IAM Permissions Required
 
