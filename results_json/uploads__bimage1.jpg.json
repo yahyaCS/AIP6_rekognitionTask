@@ -1,0 +1,33 @@
+{
+  "s3_key": "uploads/bimage1.jpg",
+  "labels": [
+    {
+      "name": "Motorcycle",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Transportation",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Vehicle",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Machine",
+      "confidence": 98.96443939208984
+    },
+    {
+      "name": "Spoke",
+      "confidence": 98.96443939208984
+    },
+    {
+      "name": "Motor",
+      "confidence": 90.41844940185547
+    },
+    {
+      "name": "Wheel",
+      "confidence": 86.40843200683594
+    }
+  ]
+}

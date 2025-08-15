@@ -1,0 +1,25 @@
+{
+  "s3_key": "uploads/image5.jpeg",
+  "labels": [
+    {
+      "name": "Animal",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Cat",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Mammal",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Pet",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Black Cat",
+      "confidence": 98.65559387207031
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "uploads/bimage1.jpg": [
+    {
+      "name": "Motorcycle",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Transportation",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Vehicle",
+      "confidence": 99.48139190673828
+    },
+    {
+      "name": "Machine",
+      "confidence": 98.96443939208984
+    },
+    {
+      "name": "Spoke",
+      "confidence": 98.96443939208984
+    },
+    {
+      "name": "Motor",
+      "confidence": 90.41844940185547
+    },
+    {
+      "name": "Wheel",
+      "confidence": 86.40843200683594
+    }
+  ],
+  "uploads/bimage2.jpeg": [
+    {
+      "name": "Motorcycle",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Transportation",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Vehicle",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Device",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Grass",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Lawn",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Lawn Mower",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Plant",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Tool",
+      "confidence": 94.5506591796875
+    }
+  ],
+  "uploads/fimage1.jpg": [
+    {
+      "name": "Burger",
+      "confidence": 99.99998474121094
+    },
+    {
+      "name": "Food",
+      "confidence": 99.99998474121094
+    },
+    {
+      "name": "Food Presentation",
+      "confidence": 81.55640411376953
+    }
+  ],
+  "uploads/fimage2.jpeg": [
+    {
+      "name": "Burger",
+      "confidence": 99.62765502929688
+    },
+    {
+      "name": "Food",
+      "confidence": 99.62765502929688
+    },
+    {
+      "name": "Food Presentation",
+      "confidence": 98.79301452636719
+    }
+  ],
+  "uploads/image5.jpeg": [
+    {
+      "name": "Animal",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Cat",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Mammal",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Pet",
+      "confidence": 99.19398498535156
+    },
+    {
+      "name": "Black Cat",
+      "confidence": 98.65559387207031
+    }
+  ],
+  "uploads/image8.jpg": [
+    {
+      "name": "Animal",
+      "confidence": 99.99678039550781
+    },
+    {
+      "name": "Cat",
+      "confidence": 99.99678039550781
+    },
+    {
+      "name": "Kitten",
+      "confidence": 99.99678039550781
+    },
+    {
+      "name": "Mammal",
+      "confidence": 99.99678039550781
+    },
+    {
+      "name": "Pet",
+      "confidence": 99.99678039550781
+    }
+  ]
+}

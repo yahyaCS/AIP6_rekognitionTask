@@ -1,0 +1,41 @@
+{
+  "s3_key": "uploads/bimage2.jpeg",
+  "labels": [
+    {
+      "name": "Motorcycle",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Transportation",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Vehicle",
+      "confidence": 99.97927856445312
+    },
+    {
+      "name": "Device",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Grass",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Lawn",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Lawn Mower",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Plant",
+      "confidence": 94.5506591796875
+    },
+    {
+      "name": "Tool",
+      "confidence": 94.5506591796875
+    }
+  ]
+}

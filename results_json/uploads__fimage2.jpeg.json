@@ -1,0 +1,17 @@
+{
+  "s3_key": "uploads/fimage2.jpeg",
+  "labels": [
+    {
+      "name": "Burger",
+      "confidence": 99.62765502929688
+    },
+    {
+      "name": "Food",
+      "confidence": 99.62765502929688
+    },
+    {
+      "name": "Food Presentation",
+      "confidence": 98.79301452636719
+    }
+  ]
+}
